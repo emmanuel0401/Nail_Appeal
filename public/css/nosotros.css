@@ -1,0 +1,54 @@
+* {
+    margin: auto;
+}
+
+.navbar-nav {
+    float: center;
+}
+
+.container {
+    padding-top: 30px;
+}
+
+h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 35px;
+    color: lightblue;
+}
+
+#texto {
+    font-size: 19px;
+    text-align: justify;
+}
+
+button {
+    text-align: center;
+    float: center;
+}
+
+footer {
+    height: 200px;
+    margin-top: 20px;
+    font-size: 20px;
+    width: auto;
+    background: linear-gradient(to top, Lightblue, white);
+}
+
+.redsocial {
+    text-align: center;
+    display: inline;
+    background-color: lightblue;
+}
+
+.redsocial ul li {
+    text-align: center;
+    display: inline-block;
+    list-style: none;
+    padding-left: 15px;
+}
+
+.final {
+    text-align: left;
+}

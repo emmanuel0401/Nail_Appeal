@@ -1,0 +1,20 @@
+/*.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+  }*/
+#p{
+    color: blue;
+    font-size: 20px;
+	text-align:center;
+}
+
+#h1{
+    color: blue;
+    font-size: 20px;
+	text-align:center;
+}
+
+.footer{
+    background-color: blueviolet;
+}

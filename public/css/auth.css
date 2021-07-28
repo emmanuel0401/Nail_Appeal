@@ -1,0 +1,31 @@
+.py-4{
+	background: linear-gradient(to top, Lightblue,#ffff);
+    height: auto;
+}
+
+.card-header{
+    text-align: center;
+}
+.footer2{
+    height: 310px;
+}
+footer{
+	height: 242px;
+	font-size: 20px;
+	width: 100%;
+}
+.redsocial{
+	text-align: center;
+	display: inline;
+	background-color: lightblue;
+}
+.redsocial ul li {
+    text-align: center;
+    display: inline-block;
+    list-style: none;
+    padding-left: 20px;
+}
+.final{
+    text-align: center;
+    }
+    

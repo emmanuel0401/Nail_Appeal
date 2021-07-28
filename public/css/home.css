@@ -1,0 +1,89 @@
+*{
+    margin: auto;    
+}
+.navbar-nav
+{
+	float:center;
+}
+
+.container{
+	margin-top: 20px;
+}
+
+h1{
+text-align:center;
+font-size: 35px;
+color: lightblue;
+}
+
+#texto{
+font-size: 19px;	
+text-align: justify;
+}
+
+.button{
+	text-align: center;
+	float: center;
+	display: block;
+}
+
+footer{
+	height: 200px;
+	margin-top: 20px;
+	font-size: 20px;
+	width: 100%;
+	background: linear-gradient(to top, Lightblue, white);
+}
+.redsocial{
+	text-align: center;
+	display: inline;
+	background-color: lightblue;
+}
+.redsocial ul li {
+    text-align: center;
+    display: inline-block;
+    list-style: none;
+    padding-left: 15px;
+}
+.final{
+text-align: center;
+}
+
+.contenedor{
+	text-align: center;
+	width: 750px;
+}
+
+iframe{
+	display: block;
+}
+
+
+h2{
+	margin-top: 20px;
+	text-align: center;
+	font-size: 30px;
+}
+.contenedor2{
+	text-align: center;
+	height: 1150px;
+	width: 1250px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.cuadro {
+	display: inline-block;
+	text-align: center;
+    height: 370px;
+	width: 285px;
+	margin: 12px;
+    border: lightblue 2px solid;
+    font-size: 16px;
+    margin-top: 22px;
+}
+
+#inputs{
+	border: 1px solid black;
+  border-radius: 4px;
+}
